@@ -1,5 +1,4 @@
 # Deletes odd lines in the .txt file
-
 arr = []
 out = []
 
